@@ -10,4 +10,4 @@ class Ali:
 print ("hi dorod haletoun ke nist bad")
 
 
-
+print("dorod")
